@@ -1,0 +1,12 @@
+"git checkout -b notes" is shorthand for:
+git branch notes
+git checkout notes
+
+
+git help will give you all the commands and simple description of them.
+
+you can clone using HTTPS or SSH the difference is how it will authenticate your computer
+
+git add followed by the file name will add them into the staging area so then can then be commited.
+
+git commit followed by a message will commit the changes with that your message on it.

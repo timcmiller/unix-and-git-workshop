@@ -1,0 +1,12 @@
+you can use
+subl -n nameoffilehere.exe
+to create a file with the exact name you need
+
+'.' stands for current directory
+
+tab completion with using cd will auto complete any file or folder that matches what you have already typed
+
+man stands for manuel and will bring up a manuel page on whatever follows that command
+you must press 'Q' to quit out of any page reader
+
+control C will cancel whatever process is happening. This is important in case you accidently create an infinate loop.
