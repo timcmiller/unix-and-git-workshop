@@ -10,3 +10,4 @@ man stands for manuel and will bring up a manuel page on whatever follows that c
 you must press 'Q' to quit out of any page reader
 
 control C will cancel whatever process is happening. This is important in case you accidently create an infinate loop.
+

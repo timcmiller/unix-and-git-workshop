@@ -10,3 +10,4 @@ you can clone using HTTPS or SSH the difference is how it will authenticate your
 git add followed by the file name will add them into the staging area so then can then be commited.
 
 git commit followed by a message will commit the changes with that your message on it.
+
